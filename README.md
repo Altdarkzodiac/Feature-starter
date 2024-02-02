@@ -31,7 +31,7 @@ Hello, user.
 
 ### `color`
 
-Running `color` inside the built container will print your favorite color to standard out.
+###Running `color` inside the built container will print your favorite color to standard out.
 
 ```jsonc
 {
